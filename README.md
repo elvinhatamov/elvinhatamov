@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently a student at Centennial College, pursuing a Post-Diploma degree in Software Engineering Technician to upgrade my knowledge.<br>👯Possess an Advanced Diploma degree from George Brown College and a Software Engineering Certificate from the General Assembly Bootcamp.<br>🤝Experienced with JavaScript, React, Node.js, Express.js, MongoDB, Java, MySQL, and PostgreSQL.<br>🌱knowledge of cloud computing platforms, including AWS, Azure, Google Cloud, and DigitalOcean.<br>💬Have strong communication skills, team player, possess self-motivation, and eager to learn new things while quickly adapting to new environments. <br>⚡Computer skills include proficiency in Microsoft Word, Excel, and PowerPoint.
+🔭 Currently a Centennial College student pursuing a Post-Diploma degree in Software Engineering Technician to upgrade my knowledge.<br>👯Possess an Advanced Diploma degree from George Brown College and a Software Engineering Certificate from the General Assembly Bootcamp.<br>🤝Experienced with JavaScript, React, Node.js, Express.js, MongoDB, Java, MySQL, and PostgreSQL.<br>🌱knowledge of cloud computing platforms, including AWS, Azure, Google Cloud, and DigitalOcean.<br>💬Have strong communication skills, team player, possess self-motivation, and eager to learn new things while quickly adapting to new environments. <br>⚡Computer skills include Microsoft Word, Excel, and PowerPoint proficiency.
 
 
 ## 🌐 Socials:
@@ -18,7 +18,7 @@
 
 
   ## 💰 Join My LinkedIn Account
-  [![LinkedIn]([(https://www.linkedin.com/in/elvinhatamov/)]) 
+[](https://www.linkedin.com/in/elvinhatamov/)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
