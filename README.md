@@ -18,7 +18,7 @@
 
 
   ## 💰 Join My LinkedIn Account
-  [![LinkedIn]([https://www.linkedin.com/in/elvinhatamov/](https://www.linkedin.com/in/elvinhatamov/))]([(https://www.linkedin.com/in/elvinhatamov/)]) 
+  [![LinkedIn]([(https://www.linkedin.com/in/elvinhatamov/)]) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
