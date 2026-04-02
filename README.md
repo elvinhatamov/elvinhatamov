@@ -1,57 +1,47 @@
-# 👋 Hi, I'm Elvin Hatamov
+# Professional Cloud Engineer Profile
 
-🎓 Cloud Computing Postgraduate Student | ☁️ Full Stack Developer | 🌍 Based in Toronto, Canada
+## Summary
+Dedicated and results-oriented Cloud Engineer with extensive experience in designing, deploying, and maintaining scalable cloud infrastructure. Proven ability to optimize cloud solutions for performance, cost, and reliability. Passionate about leveraging cloud technologies to drive innovation and efficiency in organizations.
 
----
+## Technical Skills
+- Cloud Platforms: AWS, Azure, Google Cloud Platform
+- DevOps Tools: Docker, Kubernetes, Jenkins, Terraform
+- Programming Languages: Python, Java, Bash
+- Database Management: MySQL, MongoDB, PostgreSQL
+- Networking: VPC, VPN, Firewall, Load Balancing
+- Monitoring Tools: CloudWatch, Prometheus, Grafana
 
-I'm currently pursuing my postgraduate studies in **Cloud Computing Technologies** at **George Brown College**, and I've built hands-on experience in cloud platforms like **AWS**, **Azure**, and **Microsoft 365**. My passion lies in building scalable, secure, and modern applications using cloud-native tools.
+## Experience
+**Cloud Engineer | XYZ Corporation, Location**  
+*January 2020 - Present*  
+- Architect and manage cloud-based solutions for various projects, ensuring high availability and scalability.
+- Implement CI/CD pipelines using Jenkins and Terraform to automate deployments.
+- Collaborate with development teams to optimize applications for performance in the cloud.
 
-💼 I've contributed to real-world projects as a:
-- **Research Assistant (Full Stack Developer)** at Lambton College
-- **Frontend Developer (Volunteer)** for Out in Tech’s Ghana platform
-- **Freelance Developer**, launching e-commerce sites with **Shopify** and **WordPress**
+**Systems Administrator | ABC Technologies, Location**  
+*June 2017 - December 2019*  
+- Managed on-premises servers and transitioned workloads to cloud infrastructure.
+- Provided technical support and maintenance of network systems and cloud resources.
 
----
+## Education
+**Bachelor of Science in Computer Science**  
+University of Location, Year
 
-## 🚀 What I Work With
+## Personal Projects
+- **My Cloud Portfolio**: Developed a web application showcasing cloud solutions with real-time data visualization.
+- **Open-Source Contributions**: Actively contribute to cloud-related open-source projects on GitHub.
 
-**Cloud Platforms:**
-- AWS (EC2, VPC, RDS, Lambda, API Gateway)
-- Azure (VMs, Entra ID, Storage, Defender, Intune)
-- Microsoft 365 (Endpoint Manager, OneDrive, SharePoint)
+## Certifications
+- AWS Certified Solutions Architect - Associate
+- Azure Administrator Associate
+- Google Cloud Professional Cloud Architect
 
-**Tech Stack:**
-- Frontend: React, HTML, CSS, JavaScript
-- Backend: Node.js, Express.js, Java Spring Boot
-- Database: MongoDB, MySQL, Firebase
-- DevOps & Tools: Docker, GitHub, CI/CD pipelines
+## Volunteer Experience
+**Tech Mentor | Code for Good**  
+*2021 - Present*  
+- Mentor aspiring developers in cloud technologies and best practices.
 
----
-
-## 📂 Featured Projects
-
-- 🔧 [AWS VPC & EC2 Web Server Lab](https://github.com/elvinhatamov/aws_cloud_practioner)
-- 🌐 WordPress site for Key Watch Ghana (via Out in Tech)
-- 🛒 E-commerce solutions for small businesses using Shopify & SEO
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Azure services for cloud architecture
-- AWS Cloud Practitioner certification prep
-- Automation & Infrastructure-as-Code (IaC)
-
----
-
-## 📫 Let's Connect!
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/elvinhatamov)
-- 📧 e.hatemov@gmail.com
-- 📍 Toronto, Canada
-
----
-
-_"Every challenge is a learning opportunity."_  
-Thanks for visiting my GitHub! 😊
-
+## Contact Information
+- Email: elvinhatamov@example.com  
+- LinkedIn: linkedin.com/in/elvinhatamov  
+- GitHub: github.com/elvinhatamov
