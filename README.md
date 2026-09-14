@@ -42,6 +42,6 @@ University of Location, Year
 - Mentor aspiring developers in cloud technologies and best practices.
 
 ## Contact Information
-- Email: elvinhatamov@example.com  
+- Email: elvinhatamov@outlook.com  
 - LinkedIn: linkedin.com/in/elvinhatamov  
 - GitHub: github.com/elvinhatamov
